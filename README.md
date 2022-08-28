@@ -45,9 +45,8 @@ Before running the application first install the following dependencies.
 
 To use the forecasting net prophet application you must first launch Google Colab within the internet browser by going to the following internet address :
 
-```python
 [Google Colab](https://colab.research.google.com)
-```
+
 
 Within Google Colab you should then be able to run and execute the following notebook:
 
