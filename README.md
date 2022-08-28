@@ -1,5 +1,5 @@
 # Forecasting Net Prophet
-This application analyzes the MercadoLibre's financial and company growth by predicting google search traffic and how it correlates to the price of the stock.  A Prophet forecast model is used to
+This application analyzes [MercadoLibre's](https://investor.mercadolibre.com/investor-relations) financial and company growth by predicting google search traffic and how it correlates to the price of the stock.  A Prophet forecast model is used to
 predict hourly user search traffic and any future company revenue.
 
 ---
@@ -33,10 +33,10 @@ This application leverages python 3.7 with the following libraries and packages:
 Before running the application first install the following dependencies.
 
 ```python
-pip install pystan
-pip install prophet
-pip install hvplot
-pip install holoviews
+!pip install pystan
+!pip install prophet
+!pip install hvplot
+!pip install holoviews
 ```
 
 ---
